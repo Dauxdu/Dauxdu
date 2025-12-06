@@ -67,13 +67,11 @@
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dauxdu&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dauxdu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dauxdu&theme=react&hide_border=true)
 
 </div>
 
