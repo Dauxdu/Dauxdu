@@ -22,7 +22,7 @@
   <tr>
     <td><b>Infrastructure as Code</b></td>
     <td>
-      <code>Ansible</code>
+      <code>Ansible</code> <code>Terraform</code> <code>OpenTofu</code>
     </td>
   </tr>
 
